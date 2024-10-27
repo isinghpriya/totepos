@@ -1,0 +1,61 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+.env
+
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE/editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Pytest cache
+.cache
+pytest_cache/
+
+# Coverage reports
+htmlcov/
+*.cover
+*.py,cover
+.coverage
+coverage.xml
+*.coveragerc
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Python 3.8+
+python-version
